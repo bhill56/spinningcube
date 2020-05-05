@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "build"
+		},
+		{
+			"path": "data"
+		},
+		{
+			"path": "src"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"vector": "cpp",
+			"memory": "cpp"
+		}
+	}
+}

@@ -1,0 +1,7 @@
+/Users/bhill/src/spinningcube/build/CMakeFiles/install/local.dir
+/Users/bhill/src/spinningcube/build/CMakeFiles/install/strip.dir
+/Users/bhill/src/spinningcube/build/CMakeFiles/install.dir
+/Users/bhill/src/spinningcube/build/CMakeFiles/spin.dir
+/Users/bhill/src/spinningcube/build/CMakeFiles/list_install_components.dir
+/Users/bhill/src/spinningcube/build/CMakeFiles/rebuild_cache.dir
+/Users/bhill/src/spinningcube/build/CMakeFiles/edit_cache.dir
